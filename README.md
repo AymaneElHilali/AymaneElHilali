@@ -30,4 +30,10 @@ I'm working on a **School Management System** for my final study project, using 
 </p>
 
 ### 📫 Connect with Me:
-Feel free to check out my project and reach out!
+Feel free to check out my projects and reach out!
+
+<p align="left">
+  <a href="mailto:bluemaskalltime@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
