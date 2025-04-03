@@ -13,9 +13,6 @@ I'm a passionate developer from Morocco, currently studying software development
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-### 📚 Current Project:
-I'm working on a **School Management System** for my final study project, using Java and MySQL with an **N-tier architecture**. The goal is to build a comprehensive solution to manage students, teachers, and school data.
-
 ### 🌱 Learning Goals:
 - Improving my skills in **Spring** and **Java back-end development**
 - Diving deeper into **Java frameworks** and **design patterns**
